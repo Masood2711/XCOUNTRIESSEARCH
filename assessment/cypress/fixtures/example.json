@@ -1,0 +1,7 @@
+# CRIO_SOLUTION_AND_STUB_ONLY_START_MODULE_ONE
+# CRIO_SOLUTION_AND_STUB_ONLY_END_MODULE_ONE
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
